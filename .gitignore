@@ -145,3 +145,6 @@ data/
 
 # Pycharm folder
 .idea/
+
+# DS_Store
+.DS_Store
